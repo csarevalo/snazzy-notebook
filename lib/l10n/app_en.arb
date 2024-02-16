@@ -1,0 +1,26 @@
+{
+  "appTitle": "My Crazy Notebook",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "description": "The title of the settings-view page/screen"
+  },
+  "systemTheme": "System Theme",
+  "@settingsTitle": {
+    "description": "The system theme label for a drop-down menu item"
+  },
+  "darkTheme": "Dark Theme",
+  "@settingsTitle": {
+    "description": "The dark theme label for a drop-down menu item"
+  },
+  "lightTheme": "Light Theme",
+  "@settingsTitle": {
+    "description": "The light theme label for a drop-down menu item"
+  }
+}
